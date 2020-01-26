@@ -143,8 +143,6 @@ $(document).ready(function () {
           )
         }
 
-        //
-
         for (p in containers[c].produto[0].preco) {
           $(`#produto_preco_${c}`).append(
             `<span>

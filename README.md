@@ -8,7 +8,7 @@
 ## Projeto
 
 - Para abrir o projeto, basta descompactar a pasta, e acessar o arquivo 'index.html' que está ra raiz.
-- Os arquvios de CSS se encontram na pasta '/content/css' e os de JS na pasra 'content/js'.
+- Os arquvios de CSS se encontram na pasta '/content/css' e os de JS na pasta 'content/js'.
 - O layout está responsivo.
 
 ## Dificuldades
